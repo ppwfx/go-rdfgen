@@ -1,0 +1,10 @@
+package: github.com/21stio/go-rdfgen
+import:
+- package: github.com/deiu/rdf2go
+- package: github.com/deiu/gon3
+- package: github.com/linkeddata/gojsonld
+- package: github.com/knakk/rdf
+- package: github.com/piprate/json-gold
+  version: ^0.1.0
+- package: github.com/fatih/structs
+  version: ^1.0.0

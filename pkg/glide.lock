@@ -1,0 +1,20 @@
+hash: 12dffcdbd0ab698ab9d43d3338426d95708a44ca6328b01b3e62bdb79346a5b3
+updated: 2018-06-22T14:56:49.898370024+02:00
+imports:
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  subpackages:
+  - spew
+- name: github.com/deiu/gon3
+  version: f84eb1e0bd629a62676207d0a47516da8338cf60
+- name: github.com/deiu/rdf2go
+  version: 3c24cc9e7afa7911177a566a10f9b5c75915f09d
+- name: github.com/knakk/rdf
+  version: b6ee24f8f40ff0580683aefb6831dad263a3f751
+- name: github.com/linkeddata/gojsonld
+  version: 4f5db6791326b8962ede4edbba693edcf20fd1ad
+- name: github.com/piprate/json-gold
+  version: 7a231ad6d9e7fd9f5e6778831a003ac392b37288
+  subpackages:
+  - ld
+testImports: []
